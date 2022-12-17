@@ -1,0 +1,8 @@
+.product-list{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 10px;
+    background-color: rgba(191, 197, 244, 0.657);
+    padding: 40px 0;
+}
